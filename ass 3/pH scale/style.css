@@ -1,0 +1,49 @@
+.container{
+    background-color: gray;
+}
+.blue_1{
+    background-color: blue;
+}
+.blue_2{
+    background-color: rgb(37, 37, 226);
+}
+.blue_3{
+    background-color: rgb(36, 36, 215);
+}
+.blue_4{
+    background-color: rgb(31, 31, 233);
+}
+.blue_5{
+    background-color: rgb(35, 35, 243);
+}
+.blue_6{
+    background-color: rgb(37, 37, 226);
+}
+.blue_7{
+    background-color: rgb(47, 47, 238);
+
+}
+.green{
+    background-color: green;
+}
+.pink_1{
+    background-color: rgb(241, 86, 112);
+}
+.pink_2{
+    background-color: rgb(235, 68, 96);
+}
+.pink_3{
+    background-color: rgb(243, 72, 101);
+}
+.pink_4{
+    background-color: rgb(224, 68, 94);
+}
+.pink_5{
+    background-color: rgb(238, 65, 94);
+}
+.pink_6{
+    background-color: rgb(243, 50, 83);
+}
+.pink_7{
+    background-color: rgb(232, 46, 77);
+}

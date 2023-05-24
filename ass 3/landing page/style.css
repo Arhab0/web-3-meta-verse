@@ -1,0 +1,70 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.two{
+    display: flex;
+    margin: 0px 3px 0px 0px;
+    align-items: center;
+}
+.two a{
+    text-decoration: none;
+    color: black;
+    font-size: 1.2rem;
+}
+li {
+    list-style: none;
+    margin: 0px 24px 0px 0px ;
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+.logo{
+    width: 100px;
+    height: 36px;
+    margin: 7px 0px 0px 7px;
+}
+.main_img{
+    margin-top: 10px;
+    width: 100%;
+}
+.section_2{
+    margin-bottom: 12rem;
+}
+.section_2::before{
+    content: "";
+    background: url("./img/bss.jpg") no-repeat center/cover;
+    position: absolute;
+    height: 40%;
+    width: 100%;
+    z-index: -1;
+    opacity: 1; 
+}
+.desciption{
+    display: flex;
+    flex-direction: column;
+    margin: 2rem 0px 0px 10px;
+    font-size: 1.7rem;
+}
+.desciption > span{
+    margin-top: 100px;
+}
+.Red{
+    color: red;
+}
+.footer_1{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    font-size: 1.2rem;
+}
+.footer_2{
+    margin-top: 10px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    line-height: 1.8rem;
+}
